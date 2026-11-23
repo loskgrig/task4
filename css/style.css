@@ -99,14 +99,14 @@ header {
     background: url(../img/shapka.png);
     background-position: center;
     background-size: cover;
-    aspect-ratio: 4,5/1;
+    aspect-ratio: 4.5/1;
     min-height: 140px;
     width: 100%;
     border-top: #d6b172 2px solid;
     border-bottom: #d6b172 2px solid;
     display: flex;
     flex-direction: column;
-    justify-content: center;gi
+    justify-content: center;
     align-items: center;
 }
 .head {
